@@ -1,12 +1,10 @@
 /target/
-/log4jlogs/
 !.mvn/wrapper/maven-wrapper.jar
 
 /*/target/
+
 *.log*
 *.log
-*.log4jlogs
-
 
 ### STS ###
 .apt_generated
